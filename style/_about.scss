@@ -1,0 +1,22 @@
+.about{
+    &__container{
+        row-gap: 56px;
+    }
+    &__data{
+        text-align: center;
+        display: grid;
+        justify-content: space-between;
+
+    }
+    &__description{
+        margin-bottom: 40px;
+
+    }
+    &__img{
+    min-width:  280px;
+        justify-content: center;
+
+        
+    }
+
+}
